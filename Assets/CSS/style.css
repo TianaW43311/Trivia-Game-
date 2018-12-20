@@ -1,1 +1,13 @@
+body{
+	background-image: url("Assets/CSS/Imagess/noPad.jpg");
+	text-align: center;
+}
 
+.text-muted{
+    color: rgb(74, 205, 238);
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
